@@ -1,0 +1,141 @@
+body {
+	background-image: linear-gradient(black,darkgreen,maroon,darkblue,navy,black);
+	color: black;
+	margin:0px;
+}
+
+p{
+	font-size: 30px;
+	font-family: 'Bad Script', cursive;
+	color: black;
+}
+
+
+
+h1 {
+	font-family: 'Ultra', serif;
+	font-size: 75px;
+	margin: 0px;
+	color: white;
+	background: -webkit-linear-gradient(white,purple,yellow,black,white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 8px 8px 10px #bfa811;
+}
+}
+	
+}
+
+h2 {
+	font-family: 'Righteous';
+	font-size: 60px;
+	margin:0px;
+}
+
+
+ul {
+	font-family: 'Unica One', cursive;
+	list-style-type: circle;
+	margin:50;
+	padding:10;
+	width:230px;
+	overflow: hidden;
+	}
+
+li {
+	float: left;
+	padding:01px;
+	background-color: black;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+
+}
+li a:hover{
+	background-color:black;
+}
+
+li a:hover {
+	color: white;
+}
+
+
+.active {
+	background-color: black;
+	color:black;
+}
+
+
+
+
+.time2 {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+
+}
+
+.void {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+}
+
+.time4{
+	height:400px;
+	width:400px;
+	padding-top:10px;
+	padding-bottom:50px;
+}
+
+.money1 {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+
+}
+
+.money2 {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+	padding-bottom:50px;
+
+}
+
+.usandthem {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+}
+
+.usandthem2 {
+	height:400px;
+	width:400px;
+	padding-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
